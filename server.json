@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.loji-gaming/tavern-scribe",
+  "name": "com.tavernscribe/tavern-scribe",
   "title": "Tavern Scribe",
   "description": "Your TTRPG campaign in your AI: recall lore, quests, notes and sheets; create NPCs and more.",
   "version": "1.0.0",
