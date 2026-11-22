@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "tavern-scribe": {
+      "type": "http",
+      "url": "https://api.tavernscribe.com/mcp"
+    }
+  }
+}

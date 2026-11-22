@@ -1,0 +1,25 @@
+{
+  "name": "tavern-scribe",
+  "description": "Tavern Scribe: your tabletop RPG campaign memory, connected to your AI assistant.",
+  "owner": {
+    "name": "Loji",
+    "email": "daniel@loji.us",
+    "url": "https://tavernscribe.com"
+  },
+  "plugins": [
+    {
+      "name": "tavern-scribe",
+      "source": "./",
+      "description": "Your TTRPG campaign in your AI: recall lore, quests, notes and character sheets, and create NPCs, quests and locations.",
+      "version": "1.0.0",
+      "homepage": "https://tavernscribe.com",
+      "license": "MIT",
+      "keywords": [
+        "dnd",
+        "ttrpg",
+        "dungeon master",
+        "campaign manager"
+      ]
+    }
+  ]
+}

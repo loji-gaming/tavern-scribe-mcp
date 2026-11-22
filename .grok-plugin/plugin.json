@@ -1,0 +1,11 @@
+{
+  "name": "tavern-scribe",
+  "version": "1.0.0",
+  "description": "Your TTRPG campaign in your AI: recall lore, quests, notes and character sheets, and create NPCs, quests and locations.",
+  "author": { "name": "Loji", "url": "https://tavernscribe.com" },
+  "homepage": "https://tavernscribe.com",
+  "repository": "https://github.com/loji-gaming/tavern-scribe-mcp",
+  "license": "MIT",
+  "keywords": ["dnd", "d&d", "ttrpg", "dungeon master", "campaign manager", "session notes", "daggerheart", "pathfinder"],
+  "mcpServers": "./.mcp.json"
+}

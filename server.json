@@ -1,0 +1,27 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.loji-gaming/tavern-scribe",
+  "title": "Tavern Scribe",
+  "description": "Your TTRPG campaign in your AI: recall lore, quests, notes and sheets; create NPCs and more.",
+  "version": "1.0.0",
+  "websiteUrl": "https://tavernscribe.com",
+  "icons": [
+    {
+      "src": "https://tavernscribe.com/assets/images/favicon/android-chrome-512x512.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "512x512"
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://api.tavernscribe.com/mcp"
+    }
+  ],
+  "repository": {
+    "url": "https://github.com/loji-gaming/tavern-scribe-mcp",
+    "source": "github"
+  }
+}
